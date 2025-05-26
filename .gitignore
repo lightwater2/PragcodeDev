@@ -22,3 +22,14 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# User projects (sandboxed environment)
+user-projects/
+
+# User database
+server/db/users.json
